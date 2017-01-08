@@ -1,0 +1,4 @@
+XCode
+homebrew http://brew.sh/
+python3 brew install python3
+pip sudo easy_install pip
