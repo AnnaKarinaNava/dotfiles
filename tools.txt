@@ -2,3 +2,18 @@ XCode
 homebrew http://brew.sh/
 python3 brew install python3
 pip sudo easy_install pip
+
+
+
+;; Applications
+XCode
+Divvy & shortcuts
+Nozbe
+Asana
+Chrome
+Sublime
+Copy'em Paste
+Skitch
+Slack
+Spotify
+flux
