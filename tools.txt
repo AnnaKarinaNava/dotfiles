@@ -17,3 +17,5 @@ Skitch
 Slack
 Spotify
 flux
+Evernote
+Postman
